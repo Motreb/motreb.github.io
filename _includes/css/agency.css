@@ -468,7 +468,7 @@ section h3.section-subheading {
 .timeline>li .timeline-panel {
     float: right;
     position: relative;
-    width: 100%;
+    width: 50%;
     padding: 0 20px 0 100px;
     text-align: left;
 }
